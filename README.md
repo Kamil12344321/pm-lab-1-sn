@@ -17,7 +17,7 @@ Odpowiedź:  Dioda sie świeci w trybie ciągłym
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Kolejność nie ma znaczenia, ważne, żeby doda i rezystor były podłączone szeregowo
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
